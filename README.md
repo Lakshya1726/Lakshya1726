@@ -1,18 +1,18 @@
 ![logo](https://github.com/Lakshya1726/Lakshya1726/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Lakshya Aryan</h1>
-<h3 align="center">An Aspiring Data Scientist and ML Engineer</h3>
+<h3 align="center">An Aspiring Data Scientist and Quantative Developer/Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya1726&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya1726" /> </p>
 
-- 🌱 I’m currently learning **LLMS,GENERATIVE AI AND WEB DEV USING PYTHON FRAMEWORKS**
+- 🌱 I’m currently learning **LLMS,GENERATIVE AI AND QUANT FINANCE USING PYTHON FRAMEWORKS**
 
 - 📫 How to reach me **iitbhulakshya1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DCeCPpf41PwNqVnDyfyZBoU9rhR8Jmp5/view?usp=drive_link](https://drive.google.com/file/d/1DCeCPpf41PwNqVnDyfyZBoU9rhR8Jmp5/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ibjp2lJIGBhxRGwpKYCqx1SO-6uJrzZP/view?usp=sharing](https://drive.google.com/file/d/1Ibjp2lJIGBhxRGwpKYCqx1SO-6uJrzZP/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am JERSEY18 Addicted 😍**
+- ⚡ Fun fact **I  am JERSEY18 Addicted 😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
