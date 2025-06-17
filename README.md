@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya1726&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya1726" /> </p>
 
-- 🌱 I’m currently learning **LLMS,GENERATIVE AI AND QUANT FINANCE USING PYTHON FRAMEWORKS**
+- 🌱 I’m currently learning **MACHINE LEARNING, TRADING STRATEGIES AND QUANT FINANCE USING PYTHON FRAMEWORKS**
 
 - 📫 How to reach me **iitbhulakshya1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ibjp2lJIGBhxRGwpKYCqx1SO-6uJrzZP/view?usp=sharing](https://drive.google.com/file/d/1Ibjp2lJIGBhxRGwpKYCqx1SO-6uJrzZP/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-j7RUxg6qCIawYRQQYKKMA_j2W1ZImtV/view?usp=sharing](https://drive.google.com/file/d/1-j7RUxg6qCIawYRQQYKKMA_j2W1ZImtV/view?usp=sharing)
 
 - ⚡ Fun fact **I  am JERSEY18 Addicted 😍**
 
