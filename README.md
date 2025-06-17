@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **iitbhulakshya1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-j7RUxg6qCIawYRQQYKKMA_j2W1ZImtV/view?usp=sharing](https://drive.google.com/file/d/1-j7RUxg6qCIawYRQQYKKMA_j2W1ZImtV/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Lakshya_Aryan](https://drive.google.com/file/d/1-j7RUxg6qCIawYRQQYKKMA_j2W1ZImtV/view?usp=sharing)
 
 - ⚡ Fun fact **I  am JERSEY18 Addicted 😍**
 
