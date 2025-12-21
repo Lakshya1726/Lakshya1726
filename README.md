@@ -1,6 +1,6 @@
 ![logo](https://github.com/Lakshya1726/Lakshya1726/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Lakshya Aryan</h1>
-<h3 align="center">An Aspiring Data Scientist and Quantative Developer/Analyst</h3>
+<h3 align="center">An Aspiring Data Scientist and Quantative Researcher/Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **MACHINE LEARNING, TRADING STRATEGIES AND QUANT FINANCE USING PYTHON FRAMEWORKS**
 
-- 📫 How to reach me **iitbhulakshya1@gmail.com**
+- 📫 How to reach me **lakshya.aryan.cer22@iitbhu.ac.in**
 
-- 📄 Know about my experiences [Resume_Lakshya_Aryan](https://drive.google.com/file/d/1-j7RUxg6qCIawYRQQYKKMA_j2W1ZImtV/view?usp=sharing)
+- 📄 Know about my experiences [Resume_Lakshya_Aryan](https://drive.google.com/drive/folders/1XqV3PBKga-EpYjSZ3JRcqcfeDEpGpJ9q?usp=sharing)
 
 - ⚡ Fun fact **I  am JERSEY18 Addicted 😍**
 
